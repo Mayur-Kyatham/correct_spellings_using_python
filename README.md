@@ -1,5 +1,11 @@
-Correct Spellings using Python
+# Spell Checker in Python
 
-The SpellChecker module in Python is one of the handiest tools that can be used to correct misspelt words in a piece of text. If you have never used this Python module before, you can easily install it in your Python virtual environment by running the command mentioned below in your command prompt or terminal:
+The Spell Checker in Python is a simple script that allows users to check the spelling of a word and suggests corrections if the word is misspelled. It utilizes the `spellchecker` library, which provides an efficient way to identify and correct spelling mistakes.
 
-. pip install pyspellchecker
+## Getting Started
+
+1. **Install Dependencies:**
+   Before running the script, make sure you have the `spellchecker` library installed. You can install it using the following command:
+
+   ```bash
+   pip install spellchecker
