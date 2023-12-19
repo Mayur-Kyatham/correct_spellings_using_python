@@ -9,3 +9,8 @@ The Spell Checker in Python is a simple script that allows users to check the sp
 
    ```bash
    pip install spellchecker
+
+
+Example:
+Enter a Word: teh
+Correct Spelling is "the"
