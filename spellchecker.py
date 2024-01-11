@@ -1,4 +1,4 @@
-# Spelling checking in python using SpellCh
+# Spelling checking in python using SpellChecker
 from spellchecker import SpellChecker
 corrector = SpellChecker()
 
